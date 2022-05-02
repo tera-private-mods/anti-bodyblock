@@ -5,7 +5,7 @@
     "author": "Fruit",
     "description": "Removes allies bodyblock in dungeons.",
     "version": "1.0",
-    "servers": ["https://raw.githubusercontent.com/soler91/Anti-Bodyblock/master/"],
+    "servers": ["https://raw.githubusercontent.com/tera-private-mods/anti-bodyblock/master/"],
     "options": {
         "niceName": "Anti Bodyblock",
         "guiName": "Anti Bodyblock"
